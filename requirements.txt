@@ -38,7 +38,7 @@ paramiko==2.2.3
 Pillow==4.1.1
 ply==3.9
 psutil==5.4.3
-py==1.4.34
+py==1.10.0
 pyasn1==0.2.3
 pycparser==2.14
 pycrypto==2.6.1
