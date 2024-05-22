@@ -53,7 +53,7 @@ PySocks==1.6.7
 pytest==3.1.2
 pytg==0.4.10
 pytz==2017.2
-requests==2.13.0
+requests==2.32.0
 sepolicy==1.1
 setools==4.1.0
 singledispatch==3.4.0.3
